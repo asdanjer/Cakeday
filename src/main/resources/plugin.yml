@@ -1,0 +1,4 @@
+name: Cakeday
+version: '${project.version}'
+main: me.asdanjer.cakeday.Cakeday
+api-version: '1.20'
